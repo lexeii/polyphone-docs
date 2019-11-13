@@ -210,7 +210,7 @@ could be interesting for example for the creation of a choir or pads.
 
 ![tool for creating chords]
 
-Here is an example, before and after:
+Here is an example, [before][chord_base.mp3] and [after][chord_done.mp3]:
 
 <audio controls src="../../sounds/chord_base.mp3" type="audio/mpeg"/></audio>
 <audio controls src="../../sounds/chord_done.mp3" type="audio/mpeg"/></audio>
@@ -254,7 +254,7 @@ An option allows the automatic loop of created samples, another sets the
 creation interval of samples. Finally, it is possible to choose the type of the
 created sounds: mono or stereo.
 
-Here is an example, before and after:
+Here is an example, [before][mixture_base.mp3] and [after][mixture_done.mp3]:
 
 <audio controls src="../../sounds/mixture_base.mp3" type="audio/mpeg"/></audio>
 <audio controls src="../../sounds/mixture_done.mp3" type="audio/mpeg"/></audio>
@@ -282,3 +282,8 @@ Here is an example, before and after:
 [tool for creating chords]:     ../../images/tool_create_chords.png
 [division duplication tool]:    ../../images/tool_division_duplication.png
 [mixture creation tool]:        ../../images/tool_mixture.png
+
+[chord_base.mp3]:               ../../sounds/chord_base.mp3
+[chord_done.mp3]:               ../../sounds/chord_done.mp3
+[mixture_base.mp3]:             ../../sounds/mixture_base.mp3
+[mixture_done.mp3]:             ../../sounds/mixture_done.mp3
