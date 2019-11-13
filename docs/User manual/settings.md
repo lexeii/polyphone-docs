@@ -107,12 +107,12 @@ The download directory used by the [soundfont browser] can be changed here.
 [Virtual keyboard]:  #doc_keyboard
 [Online repository]: #doc_repository
 
-[home screen]:           /manual
-[menu]:                  /manual/menu#doc_shortcuts
-[Trim to end of loop]:   /manual/soundfont-editor/tools/sample-tools#doc_trimloop
-[Remove blank at start]: /manual/soundfont-editor/tools/sample-tools#doc_removeblank
-[virtual keyboard]:      /manual/soundfont-editor/toolbar#doc_keyboard
-[soundfont browser]:     /manual/soundfont-browser
+[home screen]:           index.md
+[menu]:                  menu.md#doc_shortcuts
+[Trim to end of loop]:   soundfont-editor/tools/sample-tools.md#doc_trimloop
+[Remove blank at start]: soundfont-editor/tools/sample-tools.md#doc_removeblank
+[virtual keyboard]:      soundfont-editor/toolbar.md#doc_keyboard
+[soundfont browser]:     soundfont-browser.md
 
 [settings, general]:    images/settings_general.png
 [settings, interface]:  images/settings_interface.png
