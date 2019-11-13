@@ -68,6 +68,6 @@ For each preset, this page allows for example to perform the following checks:
 
 [tree]: /manual/soundfont-editor/tree
 
-[sample configuration summary]:     images/conf_summary_sample.png
-[instrument configuration summary]: images/conf_summary_instrument.png
-[preset configuration summary]:     images/conf_summary_preset.png
+[sample configuration summary]:     ../images/conf_summary_sample.png
+[instrument configuration summary]: ../images/conf_summary_instrument.png
+[preset configuration summary]:     ../images/conf_summary_preset.png
