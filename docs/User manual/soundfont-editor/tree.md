@@ -205,6 +205,6 @@ A click on the cross to the right of the editable field cancels the filter.
 [configuration instrument summary]: /manual/soundfont-editor/configuration-summaries#doc_instrument
 [configuration preset summary]:     /manual/soundfont-editor/configuration-summaries#doc_preset
 
-[tree 1]: images/tree_1.png
-[tree 2]: images/tree_2.png
-[tree 3]: images/tree_3.png
+[tree 1]: ../images/tree_1.png
+[tree 2]: ../images/tree_2.png
+[tree 3]: ../images/tree_3.png
