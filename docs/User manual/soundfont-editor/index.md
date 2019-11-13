@@ -19,4 +19,4 @@ A soundfont editor is made of:
 [editing page]:          /manual/soundfont-editor/editing-pages
 [configuration summary]: /manual/soundfont-editor/configuration-summaries
 
-[soundfont editor]: images/soundfont_editor.png
+[soundfont editor]: ../images/soundfont_editor.png
