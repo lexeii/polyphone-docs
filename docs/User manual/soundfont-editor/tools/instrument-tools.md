@@ -212,10 +212,8 @@ could be interesting for example for the creation of a choir or pads.
 
 Here is an example, before and after:
 
-<audio controls="controls"><source src="../../sounds/chord_base.mp3" type="audio/mpeg"/>
-Your browser does not support the audio element.</audio>
-<audio controls="controls"><source src="../../sounds/chord_done.mp3" type="audio/mpeg"/>
-Your browser does not support the audio element.</audio>
+<audio controls src="../../sounds/chord_base.mp3" type="audio/mpeg"/></audio>
+<audio controls src="../../sounds/chord_done.mp3" type="audio/mpeg"/></audio>
 
 
 <a name="doc_division"/>
@@ -258,10 +256,8 @@ created sounds: mono or stereo.
 
 Here is an example, before and after:
 
-<audio controls="controls"><source src="../../sounds/mixture_base.mp3" type="audio/mpeg"/>
-Your browser does not support the audio element.</audio>
-<audio controls="controls"><source src="../../sounds/mixture_done.mp3" type="audio/mpeg"/>
-Your browser does not support the audio element.</audio>
+<audio controls src="../../sounds/mixture_base.mp3" type="audio/mpeg"/></audio>
+<audio controls src="../../sounds/mixture_done.mp3" type="audio/mpeg"/></audio>
 
 
 
