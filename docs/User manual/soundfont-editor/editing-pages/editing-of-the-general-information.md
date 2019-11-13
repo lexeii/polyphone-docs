@@ -92,11 +92,11 @@ should not be exceeded. Some synthesizers may not be adapted to read them all.
 [general information]: #doc_info
 [statistics]:          #doc_stats
 
-[tree]:                   /manual/soundfont-editor/tree
-[sf2 format]:             /manual/annexes/the-different-soundfont-formats#doc_sf2
-[samples]:                /manual/soundfont-editor/editing-pages/sample-editor
-[instruments]:            /manual/soundfont-editor/editing-pages/instrument-editor
-[presets]:                /manual/soundfont-editor/editing-pages/preset-editor
-[Remove unused elements]: /manual/soundfont-editor/tools/global-tools#doc_unused
+[tree]:                   ../tree.md
+[sf2 format]:             ../../annexes/the-different-soundfont-formats.md#doc_sf2
+[samples]:                sample-editor.md
+[instruments]:            instrument-editor.md
+[presets]:                preset-editor.md
+[Remove unused elements]: ../tools/global-tools.md#doc_unused
 
 [global information page]: ../../images/edit_general.png
