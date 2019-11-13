@@ -100,17 +100,17 @@ described [here][menu].
 [top area]:    #doc_top
 [home screen]: #doc_home
 
-[forum]:         /forum
+[forum]:         https://www.polyphone-soundfonts.com/forum
 [documentation]: /documentation
 [tutorials]:     /documentation/tutorials
 [YouTube]:       https://www.youtube.com/results?search_query=polyphone+sf2
 
-[annexes]:                         /manual/annexes
-[the-different-soundfont-formats]: /manual/annexes/the-different-soundfont-formats
-[soundfont editor]:                /manual/soundfont-editor
-[soundfont browser]:               /manual/soundfont-browser
-[soundfont description]:           /manual/soundfont-browser#doc_description
-[settings]:                        /manual/settings
-[menu]:                            /manual/menu
+[annexes]:                         annexes/
+[the-different-soundfont-formats]: annexes/the-different-soundfont-formats.md
+[soundfont editor]:                soundfont-editor/
+[soundfont browser]:               soundfont-browser.md
+[soundfont description]:           soundfont-browser.md#doc_description
+[settings]:                        settings.md
+[menu]:                            menu.md
 
 [home screen of Polyphone]: images/page_home.png
