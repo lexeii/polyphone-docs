@@ -105,9 +105,9 @@ described [here][menu].
 [tutorials]:     /documentation/tutorials
 [YouTube]:       https://www.youtube.com/results?search_query=polyphone+sf2
 
-[annexes]:                         annexes/
+[annexes]:                         annexes/index.md
 [the-different-soundfont-formats]: annexes/the-different-soundfont-formats.md
-[soundfont editor]:                soundfont-editor/
+[soundfont editor]:                soundfont-editor/index.md
 [soundfont browser]:               soundfont-browser.md
 [soundfont description]:           soundfont-browser.md#doc_description
 [settings]:                        settings.md
