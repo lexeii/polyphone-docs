@@ -175,18 +175,18 @@ This area is made of different buttons:
 [recorder]:          #doc_recorder
 [virtual keyboard]:  #doc_keyboard
 
-[tree]:               /manual/soundfont-editor/tree
-[tools]:              /manual/soundfont-editor/tools
-[editor]:             /manual/soundfont-editor/editing-pages
-[samples]:            /manual/soundfont-editor/editing-pages/sample-editor
-[instrument]:         /manual/soundfont-editor/editing-pages/instrument-editor
-[table view]:         /manual/soundfont-editor/editing-pages/instrument-editor#doc_table
-[range editor]:       /manual/soundfont-editor/editing-pages/instrument-editor#doc_range
-[envelope editor]:    /manual/soundfont-editor/editing-pages/instrument-editor#doc_envelope
-[preset]:             /manual/soundfont-editor/editing-pages/preset-editor
-[keyboard settings]:  /manual/settings#doc_keyboard
-[general settings]:   /manual/settings#doc_general
-[interface settings]: /manual/settings#doc_interface
+[tree]:               tree.md
+[tools]:              tools/index.md
+[editor]:             editing-pages/index.md
+[samples]:            editing-pages/sample-editor.md
+[instrument]:         editing-pages/instrument-editor.md
+[table view]:         editing-pages/instrument-editor.md#doc_table
+[range editor]:       editing-pages/instrument-editor.md#doc_range
+[envelope editor]:    editing-pages/instrument-editor.md#doc_envelope
+[preset]:             editing-pages/preset-editor.md
+[keyboard settings]:  ../settings.md#doc_keyboard
+[general settings]:   ../settings.md#doc_general
+[interface settings]: ../settings.md#doc_interface
 
 [toolbar image]:                          ../images/toolbar.png
 [recorder image]:                         ../images/recorder.png
