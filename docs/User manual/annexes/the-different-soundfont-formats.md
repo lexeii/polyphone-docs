@@ -131,12 +131,12 @@ tends to be obsolete, that's why Polyphone only allows importing sfArk archives
 [sfz]:   #doc_sfz
 [sfArk]: #doc_sfark
 
-[samples]:             /manual/soundfont-editor/editing-pages/sample-editor
-[instruments]:         /manual/soundfont-editor/editing-pages/instrument-editor
-[tables]:              /manual/soundfont-editor/editing-pages/instrument-editor#doc_table
-[modulators]:          /manual/soundfont-editor/editing-pages/instrument-editor#doc_modulator
-[presets]:             /manual/soundfont-editor/editing-pages/preset-editor
-[general information]: /manual/soundfont-editor/editing-pages/editing-of-the-general-information
+[samples]:             ../soundfont-editor/editing-pages/sample-editor.md
+[instruments]:         ../soundfont-editor/editing-pages/instrument-editor.md
+[tables]:              ../soundfont-editor/editing-pages/instrument-editor.md#doc_table
+[modulators]:          ../soundfont-editor/editing-pages/instrument-editor.md#doc_modulator
+[presets]:             ../soundfont-editor/editing-pages/preset-editor.md
+[general information]: ../soundfont-editor/editing-pages/editing-of-the-general-information.md
 
 [TiMidity]:  https://sourceforge.net/projects/timidity
 [WildMIDI]:  https://www.mindwerks.net/projects/wildmidi
