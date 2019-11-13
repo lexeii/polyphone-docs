@@ -197,13 +197,13 @@ A click on the cross to the right of the editable field cancels the filter.
 [copy / paste]:    #doc_copypaste
 [search]:          #doc_search
 
-[general information]:              /manual/soundfont-editor/editing-pages/editing-of-the-general-information
-[sample editor]:                    /manual/soundfont-editor/editing-pages/sample-editor
-[instrument editor]:                /manual/soundfont-editor/editing-pages/instrument-editor
-[preset editor]:                    /manual/soundfont-editor/editing-pages/preset-editor
-[configuration sample summary]:     /manual/soundfont-editor/configuration-summaries#doc_sample
-[configuration instrument summary]: /manual/soundfont-editor/configuration-summaries#doc_instrument
-[configuration preset summary]:     /manual/soundfont-editor/configuration-summaries#doc_preset
+[general information]:              editing-pages/editing-of-the-general-information.md
+[sample editor]:                    editing-pages/sample-editor.md
+[instrument editor]:                editing-pages/instrument-editor.md
+[preset editor]:                    editing-pages/preset-editor.md
+[configuration sample summary]:     configuration-summaries.md#doc_sample
+[configuration instrument summary]: configuration-summaries.md#doc_instrument
+[configuration preset summary]:     configuration-summaries.md#doc_preset
 
 [tree 1]: ../images/tree_1.png
 [tree 2]: ../images/tree_2.png
