@@ -14,9 +14,9 @@ A soundfont editor is made of:
 
 
 
-[tree]:                  /manual/soundfont-editor/tree
-[toolbar]:               /manual/soundfont-editor/toolbar
-[editing page]:          /manual/soundfont-editor/editing-pages
-[configuration summary]: /manual/soundfont-editor/configuration-summaries
+[tree]:                  tree.md
+[toolbar]:               toolbar.md
+[editing page]:          editing-pages/index.md
+[configuration summary]: configuration-summaries.md
 
 [soundfont editor]: ../images/soundfont_editor.png
