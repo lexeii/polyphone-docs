@@ -103,9 +103,9 @@ cleared, the download menu disappears.
 
 [soundfont browser]: #doc_browse
 
-[home screen]:      /manual#doc_right
-[settings]:         /manual/settings#doc_repository
-[soundfont editor]: /manual/soundfont-editor
+[home screen]:      index.md#doc_right
+[settings]:         settings.md#doc_repository
+[soundfont editor]: soundfont-editor/index.md
 
 [browsing soundfonts]:             images/soundfont_browser_browsing.png
 [description page of a soundfont]: images/soundfont_browser_description.png
