@@ -69,11 +69,11 @@ items allowing you to access different features.
 
 
 
-[.sf2]:     /manual/annexes/the-different-soundfont-formats#doc_sf2
-[.sf3]:     /manual/annexes/the-different-soundfont-formats#doc_sf3
-[.sfz]:     /manual/annexes/the-different-soundfont-formats#doc_sfz
-[.sfArk]:   /manual/annexes/the-different-soundfont-formats#doc_sfark
-[settings]: /manual/settings
+[.sf2]:     annexes/the-different-soundfont-formats.md#doc_sf2
+[.sf3]:     annexes/the-different-soundfont-formats.md#doc_sf3
+[.sfz]:     annexes/the-different-soundfont-formats.md#doc_sfz
+[.sfArk]:   annexes/the-different-soundfont-formats.md#doc_sfark
+[settings]: settings.md
 
 [menu]:          images/menu.png
 [export window]: images/export.png
