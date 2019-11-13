@@ -7,5 +7,5 @@ Here is the list of pages giving extra information:
 
 
 
-[soundfont formats]: /manual/annexes/the-different-soundfont-formats
-[command lines]:     /manual/annexes/command-line
+[soundfont formats]: the-different-soundfont-formats.md
+[command lines]:     command-line.md
