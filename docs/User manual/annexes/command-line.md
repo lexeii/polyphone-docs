@@ -128,7 +128,7 @@ polyphone -3 -i /path/to/file.sf3 -c 011
 [.sf3]: #doc_sf3
 [.sfz]: #doc_sfz
 
-[sf2]:   /manual/annexes/the-different-soundfont-formats#doc_sf2
-[sf3]:   /manual/annexes/the-different-soundfont-formats#doc_sf3
-[sfz]:   /manual/annexes/the-different-soundfont-formats#doc_sfz
-[sfArk]: /manual/annexes/the-different-soundfont-formats#doc_sfark
+[sf2]:   the-different-soundfont-formats.md#doc_sf2
+[sf3]:   the-different-soundfont-formats.md#doc_sf3
+[sfz]:   the-different-soundfont-formats.md#doc_sfz
+[sfArk]: the-different-soundfont-formats.md#doc_sfark
