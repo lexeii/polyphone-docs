@@ -188,7 +188,7 @@ This area is made of different buttons:
 [general settings]:   /manual/settings#doc_general
 [interface settings]: /manual/settings#doc_interface
 
-[toolbar image]:                          images/toolbar.png
-[recorder image]:                         images/recorder.png
-[virtual keyboard image]:                 images/virtual_keyboard.png
-[virtual keyboard with MIDI controllers]: images/virtual_keyboard_2.png
+[toolbar image]:                          ../images/toolbar.png
+[recorder image]:                         ../images/recorder.png
+[virtual keyboard image]:                 ../images/virtual_keyboard.png
+[virtual keyboard with MIDI controllers]: ../images/virtual_keyboard_2.png
