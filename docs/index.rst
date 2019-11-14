@@ -15,6 +15,7 @@ Extra information can also be found in the annexes_.
 
 
 .. _home:
+.. _home screen:
 
 Home screen
 ===========
@@ -30,6 +31,7 @@ The first screen of Polyphone is basically made of 3 parts:
 
 
 .. _left:
+.. _left part:
 
 Left part
 =========
@@ -66,6 +68,7 @@ Settings
 
 
 .. _right:
+.. _right part:
 
 Right part
 ==========
@@ -93,6 +96,7 @@ results will be displayed in the `soundfont browser`_.
 
 
 .. _top:
+.. _top area:
 
 Top area
 ========
@@ -118,10 +122,6 @@ described `here <menu_>`_.
 
 
 
-.. _left part:   left_
-.. _right part:  right_
-.. _top area:    top_
-.. _home screen: home_
 
 .. _forum:         https://www.polyphone-soundfonts.com/forum/
 .. _documentation: https://www.polyphone-soundfonts.com/documentation/
