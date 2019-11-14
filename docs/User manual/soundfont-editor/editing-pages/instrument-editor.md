@@ -274,15 +274,15 @@ thicker (see the tuning in the global column above).
 [envelope editor]:   #doc_envelope
 [modulator section]: #doc_modulator
 
-[tree]:                    /manual/soundfont-editor/tree
-[toolbar]:                 /manual/soundfont-editor/toolbar#doc_view
-[sound settings]:          /manual/settings#doc_sound
-[general settings]:        /manual/settings#doc_general
-[interface settings]:      /manual/settings#doc_interface
-[tools]:                   /manual/soundfont-editor/tools/instrument-tools
-[key-based configuration]: /manual/soundfont-editor/tools/instrument-tools#doc_global
-[sample]:                  /manual/soundfont-editor/editing-pages/sample-editor
-[sf2 format]:              /manual/annexes/the-different-soundfont-formats#doc_sf2
+[tree]:                    ../tree.md
+[toolbar]:                 ../toolbar.md#doc_view
+[sound settings]:          ../../settings.md#doc_sound
+[general settings]:        ../../settings.md#doc_general
+[interface settings]:      ../../settings.md#doc_interface
+[tools]:                   ../tools/instrument-tools.md
+[key-based configuration]: ../tools/instrument-tools.md#doc_global
+[sample]:                  sample-editor.md
+[sf2 format]:              ../../annexes/the-different-soundfont-formats.md#doc_sf2
 
 [instrument page]:           ../../images/edit_instrument.png
 [instrument page with multiple instruments selected]: ../../images/edit_multiple_instruments.png
