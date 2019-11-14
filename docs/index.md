@@ -7,4 +7,4 @@
 
 
 [Polyphone logo]: logo.png
-[User manual]: User%20manual/index.md
+[User manual]: User%20manual/
