@@ -92,7 +92,7 @@ It is possible to write a keyword here for searching specific soundfonts and the
 results will be displayed in the `soundfont browser`_.
 
 
-.. _doc_top
+.. _doc_top:
 
 Top area
 ========
