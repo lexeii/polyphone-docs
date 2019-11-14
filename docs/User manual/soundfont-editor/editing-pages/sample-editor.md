@@ -158,11 +158,11 @@ enables or disables playback if we are navigating in the tree.
 [equalizer]:   #doc_eq
 [player]:      #doc_player
 
-[tree]:               /manual/soundfont-editor/tree
-[interface settings]: /manual/settings#doc_interface
-[general settings]:   /manual/settings#doc_general
-[tool]:               /manual/soundfont-editor/tools/global-tools#doc_freq
-[toolbar]:            /manual/soundfont-editor/toolbar
+[tree]:               ../tree.md
+[interface settings]: ../../settings.md#doc_interface
+[general settings]:   ../../settings.md#doc_general
+[tool]:               ../tools/global-tools.md#doc_freq
+[toolbar]:            ../toolbar.md
 [tutorial]:           /en/documentation/tutorials/how-to-prepare-a-sample/163
 
 [sample page]:    ../../images/edit_sample.png
