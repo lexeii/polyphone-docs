@@ -54,10 +54,10 @@ in a website.
 [Modulators]: #doc_cat_mod
 [Utility]:    #doc_cat_util
 
-[tree]:        /manual/soundfont-editor/tree
-[tool menu]:   /manual/soundfont-editor/tools
-[modulators]:  /manual/soundfont-editor/editing-pages/instrument-editor#doc_modulator
-[instruments]: /manual/soundfont-editor/editing-pages/instrument-editor
-[presets]:     /manual/soundfont-editor/editing-pages/preset-editor
+[tree]:        ../tree.md
+[tool menu]:   index.md
+[modulators]:  ../editing-pages/instrument-editor.md#doc_modulator
+[instruments]: ../editing-pages/instrument-editor.md
+[presets]:     ../editing-pages/preset-editor.md
 
 [preset list]: ../../images/en_preset_list.png
