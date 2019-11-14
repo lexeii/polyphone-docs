@@ -44,13 +44,13 @@ the tool menu is filled with [preset tools].
 
 
 
-[editors]:          /manual/soundfont-editor/editing-pages
-[toolbar]:          /manual/soundfont-editor/toolbar#doc_edit
-[tree]:             /manual/soundfont-editor/tree
-[global tools]:     /manual/soundfont-editor/tools/global-tools
-[sample tools]:     /manual/soundfont-editor/tools/sample-tools
-[instrument tools]: /manual/soundfont-editor/tools/instrument-tools
-[preset tools]:     /manual/soundfont-editor/tools/preset-tools
+[editors]:          ../editing-pages/index.md
+[toolbar]:          ../toolbar.md#doc_edit
+[tree]:             ../tree.md
+[global tools]:     global-tools.md
+[sample tools]:     sample-tools.md
+[instrument tools]: instrument-tools.md
+[preset tools]:     preset-tools.md
 
 [tool menu showing global tools]:     ../../images/tool_menu_global.png
 [tool menu showing sample tools]:     ../../images/tool_menu_sample.png
