@@ -81,12 +81,12 @@ Same tool than “[Division duplication]” for instruments.
 [Modulators]:     #doc_cat_mod
 [Transformation]: #doc_cat_transformation
 
-[tree]:                    /manual/soundfont-editor/tree
-[tool menu]:               /manual/soundfont-editor/tools
-[instruments]:             /manual/soundfont-editor/tools/instrument-tools
-[Display parameters]:      /manual/soundfont-editor/tools/instrument-tools#doc_display
-[Change attenuations]:     /manual/soundfont-editor/tools/instrument-tools#doc_attenuation
-[Key-based configuration]: /manual/soundfont-editor/tools/instrument-tools#doc_global
-[Sound spatialization]:    /manual/soundfont-editor/tools/instrument-tools#doc_spatialization
-[Remove modulators]:       /manual/soundfont-editor/tools/instrument-tools#doc_remove_mod
-[Division duplication]:    /manual/soundfont-editor/tools/instrument-tools#doc_division
+[tree]:                    ../tree.md
+[tool menu]:               index.md
+[instruments]:             instrument-tools.md
+[Display parameters]:      instrument-tools.md#doc_display
+[Change attenuations]:     instrument-tools.md#doc_attenuation
+[Key-based configuration]: instrument-tools.md#doc_global
+[Sound spatialization]:    instrument-tools.md#doc_spatialization
+[Remove modulators]:       instrument-tools.md#doc_remove_mod
+[Division duplication]:    instrument-tools.md#doc_division
