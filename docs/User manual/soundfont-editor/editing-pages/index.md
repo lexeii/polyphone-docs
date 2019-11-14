@@ -15,10 +15,10 @@ selected:
 
 
 
-[tree]:                /manual/soundfont-editor/tree
-[general information]: /manual/soundfont-editor/editing-pages/editing-of-the-general-information
-[sample editor]:       /manual/soundfont-editor/editing-pages/sample-editor
-[instrument editor]:   /manual/soundfont-editor/editing-pages/instrument-editor
-[preset editor]:       /manual/soundfont-editor/editing-pages/preset-editor
+[tree]:                ../tree.md
+[general information]: editing-of-the-general-information.md
+[sample editor]:       sample-editor.md
+[instrument editor]:   instrument-editor.md
+[preset editor]:       preset-editor.md
 
 [editing pages]: ../../images/editing_pages.png
