@@ -220,15 +220,15 @@ activated in the [settings][settings general], will not be applicable anymore.
 [Sample processing]: #doc_cat_processing
 [Stereo samples]:    #doc_cat_stereo
 
-[tree]:             /manual/soundfont-editor/tree
-[tool menu]:        /manual/soundfont-editor/tools
-[samples]:          /manual/soundfont-editor/editing-pages/sample-editor
-[sample frequency]: /manual/soundfont-editor/editing-pages/sample-editor#doc_freq
-[equalizer]:        /manual/soundfont-editor/editing-pages/sample-editor#doc_eq
-[instrument]:       /manual/soundfont-editor/editing-pages/instrument-editor
-[table]:            /manual/soundfont-editor/editing-pages/instrument-editor#doc_table
-[undo]:             /manual/soundfont-editor/toolbar#doc_edit
-[settings general]: /manual/settings#doc_general
+[tree]:             ../tree.md
+[tool menu]:        index.md
+[samples]:          ../editing-pages/sample-editor.md
+[sample frequency]: ../editing-pages/sample-editor.md#doc_freq
+[equalizer]:        ../editing-pages/sample-editor.md#doc_eq
+[instrument]:       ../editing-pages/instrument-editor.md
+[table]:            ../editing-pages/instrument-editor.md#doc_table
+[undo]:             ../toolbar.md#doc_edit
+[settings general]: ../../settings.md#doc_general
 
 [show peak frequencies]: ../../images/tool_show_peak_frequencies.png
 [loop on]:               ../../images/loop_on.png
