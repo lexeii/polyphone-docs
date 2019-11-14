@@ -14,7 +14,7 @@ on YouTube_ (special thanks to Polyphone users for their useful videos).
 Extra information can also be found in the annexes_.
 
 
-.. _doc-home:
+.. _home:
 
 Home screen
 ===========
@@ -29,7 +29,7 @@ The first screen of Polyphone is basically made of 3 parts:
    :alt: home screen of Polyphone
 
 
-.. _doc-left:
+.. _left:
 
 Left part
 =========
@@ -65,7 +65,7 @@ Settings
    Open the settings_ of the software in a new tab.
 
 
-.. _doc-right:
+.. _right:
 
 Right part
 ==========
@@ -92,7 +92,7 @@ It is possible to write a keyword here for searching specific soundfonts and the
 results will be displayed in the `soundfont browser`_.
 
 
-.. _doc-top:
+.. _top:
 
 Top area
 ========
@@ -118,10 +118,10 @@ described `here <menu_>`_.
 
 
 
-.. _left part:   doc-left_
-.. _right part:  doc-right_
-.. _top area:    doc-top_
-.. _home screen: doc-home_
+.. _left part:   left_
+.. _right part:  right_
+.. _top area:    top_
+.. _home screen: home_
 
 .. _forum:         https://www.polyphone-soundfonts.com/forum/
 .. _documentation: https://www.polyphone-soundfonts.com/documentation/
