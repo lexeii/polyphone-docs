@@ -40,9 +40,9 @@ The last bank (128) is usually used for percussion kits.
 
 
 
-[tree]:              /manual/soundfont-editor/tree
-[soundfont]:         /manual/annexes/the-different-soundfont-formats#doc_sf2
-[instrument editor]: /manual/soundfont-editor/editing-pages/instrument-editor
-[toolbar]:           /manual/soundfont-editor/toolbar#doc_view
+[tree]:              ../tree.md
+[soundfont]:         ../../annexes/the-different-soundfont-formats.md#doc_sf2
+[instrument editor]: instrument-editor.md
+[toolbar]:           ../toolbar.md#doc_view
 
 [preset page]: ../../images/edit_preset.png
