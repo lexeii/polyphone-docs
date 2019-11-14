@@ -267,9 +267,9 @@ Here is an example, [before][mixture_base.mp3] and [after][mixture_done.mp3]:
 [Transformation]:               #doc_cat_transformation
 [Override a default modulator]: #doc_default_mod
 
-[tree]:          /manual/soundfont-editor/tree
-[tool menu]:     /manual/soundfont-editor/tools
-[sample editor]: /manual/soundfont-editor/editing-pages/sample-editor
+[tree]:          ../tree.md
+[tool menu]:     index.md
+[sample editor]: ../editing-pages/sample-editor.md
 
 [display parameter tool]:       ../../images/tool_display_parameters.png
 [change attenuation tool]:      ../../images/tool_change_attenuation.png
